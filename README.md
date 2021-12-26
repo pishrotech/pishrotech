@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- Pishro Tak Sadra Yazd Company started its activities in 2015 with a new approach and using the experiences of several years of previous activities in the field of automation, hardware and software. Utilizing new specialized forces, organizing activities with a view to national development, providing advanced hardware and software products and services in the field of automation, made this company one of the powerful centers active in the field of IT.
+ Pishro tech Sadra Yazd Company started its activities in 2015 with a new approach and using the experiences of several years of previous activities in the field of automation, hardware and software. Utilizing new specialized forces, organizing activities with a view to national development, providing advanced hardware and software products and services in the field of automation, made this company one of the powerful centers active in the field of IT.
 </p>
 
 <p align="left">
